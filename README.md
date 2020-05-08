@@ -1,5 +1,5 @@
 ##  P1
-Rodet en text. [quan tu vas ella torna-gif](p1_baldó_garcía_natalia.mp4) | [quan tu vas ella torna-mp4](p1_baldó_garcía_natalia.gif)
+Rodet en text. [quan tu vas ella torna-gif](p1_baldó_garcía_natalia.gif) | [quan tu vas ella torna-mp4](p1_baldó_garcía_natalia.mp4)
 
 ##  P2
 Text extruit amb forma d'ona. [xaloc-gif]() | [xaloc-mp4]()
