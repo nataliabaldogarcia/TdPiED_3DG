@@ -17,7 +17,7 @@ Rotació i bucle: [no és no (gif)]() | [no és no (mp4)]()
 Mupi animat anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAlcoi*
 
 ##  P7
-Vortex: [Vortex Club (gif)]() | [Vortex Club (mp4)]()
+Vortex: [Vortex Club (gif)](p7_baldó_garcía_natalia.gif) | [Vortex Club (mp4)](p7_baldó_garcía_natalia.mp4)
 
 ##  P8
 Coronavirus Festival: [Coronavirus Festival (jpg)](p8_baldó_garcía_natalia.jpg)
