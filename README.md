@@ -20,7 +20,7 @@ Mupi animat anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAl
 Vortex: [Vortex Club (gif)]() | [Vortex Club (mp4)]()
 
 ##  P8
-Coronavirus Festival: [Coronavirus Festival (jpg)]()
+Coronavirus Festival: [Coronavirus Festival (jpg)](p8_baldó_garcía_natalia.jpg)
 
 ##  P9
 Escenari: [escenari (jpg)]() 
