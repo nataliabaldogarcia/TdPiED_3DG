@@ -29,4 +29,4 @@ Escenari: [escenari (jpg)](p9_baldó_garcía_natalia.jpg)
 Proun 1: [Proun 1 (jpg)](p10_baldó_garcía_natalia.jpg) 
 
 ##  11
-Personatge: [personatge (jpg)]()
+Personatge: [personatge (jpg)](p11_baldó_garcía_natalia.jpg)
