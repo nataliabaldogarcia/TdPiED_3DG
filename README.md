@@ -5,7 +5,7 @@ Rodet en text: [quan tu vas ella torna (gif)](p1_baldó_garcía_natalia.gif) | [
 Text extruit amb forma d'ona: [xaloc (gif)](p2_baldó_garcía_natalia.gif) | [xaloc (mp4)](p2_baldó_garcía_natalia.mp4)
 
 ##  P3
-Text amb rotació: [volta (gif)]() | [volta (mp4)]()
+Text amb rotació: [volta (gif)](p3_baldó_garcía_natalia.gif) | [volta (mp4)](p3_baldó_garcía_natalia.mp4)
 
 ##  P4
 Textures aplicades al moviment: [full de paper (gif)](p4_baldó_garcía_natalia.gif) |  [full de paper (mp4)](p4_baldó_garcía_natalia.mp4)
