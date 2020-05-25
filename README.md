@@ -8,7 +8,7 @@ Text extruit amb forma d'ona: [xaloc (gif)](p2_baldó_garcía_natalia.gif) | [xa
 Text amb rotació: [volta (gif)]() | [volta (mp4)]()
 
 ##  P4
-Textures aplicades al moviment: [full de paper (gif)]() |  [full de paper (mp4)]()
+Textures aplicades al moviment: [full de paper (gif)](p4_baldó_garcía_natalia.gif) |  [full de paper (mp4)](p4_baldó_garcía_natalia.mp4)
 
 ##  P5
 Rotació i bucle: [no és no (gif)](p5_baldó_garcía_natalia.gif) | [no és no (mp4)](p5_baldó_garcía_natalia.mp4)
