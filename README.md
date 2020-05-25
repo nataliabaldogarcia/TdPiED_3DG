@@ -11,7 +11,7 @@ Text amb rotació: [volta (gif)]() | [volta (mp4)]()
 Textures aplicades al moviment: [full de paper (gif)]() |  [full de paper (mp4)]()
 
 ##  P5
-Rotació i bucle: [no és no (gif)]() | [no és no (mp4)]()
+Rotació i bucle: [no és no (gif)](p5_baldó_garcía_natalia.gif) | [no és no (mp4)](p5_baldó_garcía_natalia.mp4)
 
 ##  P6
 Mupi animat anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAlcoi*
